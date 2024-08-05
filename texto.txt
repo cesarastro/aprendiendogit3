@@ -1,0 +1,29 @@
+Este es un tutorial para aprender GIT y manejar versiones y comandos basicos
+desde la terminal.
+
+GIT es un Programa de control de versiones.
+
+Usos de GIT
+
+- Historial
+- Almacenar código
+- Trabajar en equipo
+- Cuando se introduce un error
+
+Etapas usando git
+
+Computador 	stage	  commit	Server
+
+
+Stage: Etapa intermedia donde verificamos y seleccionamos los cambios a
+guardar, a veces no pasamos todos los cambios, solo los que queremos
+comprometer.
+tambien tenemos que registrar los archivos que eliminemos.
+
+Commit:  Los archivos de commit son los archivos y cambios que queremos
+comprometer.
+
+Server:  Pasar los cambios a un servidor web.
+
+
+
